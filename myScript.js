@@ -45,7 +45,7 @@ const virtualPet = {
         if (this.type === "Fire Hamster") {
             imageUrl = 'images/Fire_hamster.jpg';  // Replace with the actual image URL
         } else if (this.type === "Giant Hamster") {
-            imageUrl = 'images/Giant.hamster.jpg';  // Replace with the actual image URL
+            imageUrl = 'images/Giant_hamster.jpg';  // Replace with the actual image URL
         } else {
             imageUrl = 'images/hamster.webp';  // Replace with the default dragon image URL
         }
